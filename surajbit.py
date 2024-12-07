@@ -28,7 +28,7 @@ def generate_wallets(input_file: str, output_file: str):
 def main():
     input_string = "initialstring"  # Initial input string for hashing
     hash_file = "suraj.txt"
-    wallet_file = "suraj1.txt"
+    wallet_file = "saved.txt"
     
     while True:
         # Step 1: Generate 100,000 hashes and write to suraj.txt
